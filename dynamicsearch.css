@@ -1,0 +1,14 @@
+body{background-color:black;color:white;}
+.contact{
+  width:10%;
+  height:50px;
+  margin:20px;
+  background-color:#CCC;
+  display:inline-block;
+  text-align:center;
+  padding-top:10px;
+  color:black;
+  box-shadow:4px 4px 8px 0px black;
+  border:2px ridge black;
+}
+.contact:hover{border:2px ridge blue;box-shadow:4px 4px 8px 0px blue;}
